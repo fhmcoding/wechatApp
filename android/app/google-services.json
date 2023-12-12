@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "687583617120",
+    "project_id": "canariwhatsapp",
+    "storage_bucket": "canariwhatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687583617120:android:675e71232fd4ceefcb2305",
+        "android_client_info": {
+          "package_name": "com.example.canariawahatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687583617120-r6u6ha5idillo89kalvuvmjn8c5lvonn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ4wO2ezz5WUZL7cKOqOf15w0sOEW-hMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687583617120-r6u6ha5idillo89kalvuvmjn8c5lvonn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687583617120:android:5712c967d6088c0fcb2305",
+        "android_client_info": {
+          "package_name": "com.example.wechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687583617120-r6u6ha5idillo89kalvuvmjn8c5lvonn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ4wO2ezz5WUZL7cKOqOf15w0sOEW-hMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687583617120-r6u6ha5idillo89kalvuvmjn8c5lvonn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
